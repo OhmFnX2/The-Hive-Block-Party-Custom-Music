@@ -1,4 +1,4 @@
-# Now The Hive Block Party Use Song
+# Now The Hive Block Party Use Music
 ### Electro Buzz (cosmochild - Vanilla)
 ### Sugar Rush (SK Music - Find You)
 ### Apple Juice (i can't find original music help!!! http://gg.gg/13cdrd)
