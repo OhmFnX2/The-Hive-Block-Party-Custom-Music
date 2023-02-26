@@ -3,10 +3,6 @@
 ### Electro Buzz (cosmochild - Vanilla)
 ### Sugar Rush (SK Music - Find You)
 ### Neon Night (i can't find original music help!!! http://gg.gg/13cdrd)
-<<<<<<< HEAD
-
-=======
->>>>>>> e2456cdfaf9c65bbedf00d607348ccec1fdacb7f
 # How To Use
 #### 1. Add Remove... Music Name in to Minecraft Global Resources
 #### 2. Read file ReadMe.txt in "BlockParty Track (Your Music)" folder
