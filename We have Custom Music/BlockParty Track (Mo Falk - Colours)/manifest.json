@@ -1,0 +1,84 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [
+            "OhmFn X2"
+        ],
+        "generated_with": {
+            "bridge": [
+                "2.6.0"
+            ],
+            "dash": [
+                "0.10.8"
+            ]
+        }
+    },
+    "header": {
+        "name": "BlockParty Track: Mo Falk - Colours",
+        "description": "BlockParty Track: Mo Falk - Colours",
+        "uuid": "cba8ab07-dc4e-4165-a29a-ad36a3f117ef",
+        "min_engine_version": [
+            1,
+            19,
+            60
+        ],
+        "version": [
+            1,
+            0,
+            5
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "49ae2984-cd05-421a-8f2f-2b2d24b59af6",
+            "version": [
+                1,
+                0,
+                5
+            ]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "electro_buzz",
+            "name": "Replace \"Electro Buzz\" (cosmochild - Vanilla)",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "sugar_rush",
+            "name": "Replace \"Sugar Rush\" (SK Music - Find You)",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "apple_juice",
+            "name": "Replace \"Apple Juice\" (i can't find original music help!!!)\nhttp://gg.gg/13cdrd",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "neon_night",
+            "name": "Replace \"Neon Night\" (i can't find original music help!!! http://gg.gg/13cdrd)",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "neon_night",
+            "name": "Replace \"Neon Night\" (i can't find original music help!!! http://gg.gg/13cdrd)",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "neon_night",
+            "name": "Replace \"Neon Night\" (i can't find original music help!!! http://gg.gg/13cdrd)",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "neon_night",
+            "name": "Replace \"Neon Night\" (i can't find original music help!!! http://gg.gg/13cdrd)",
+            "memory_tier": 0
+        },
+        {
+            "folder_name": "neon_night",
+            "name": "Replace \"Neon Night\" (i can't find original music help!!! http://gg.gg/13cdrd)",
+            "memory_tier": 0
+        }
+    ]
+}

@@ -1,1 +1,30 @@
-{"format_version":2,"header":{"description":"Remove BlockParty Track: Synthwave (Neon Night)","name":"Remove BlockParty Track: Synthwave (Neon Night)","uuid":"520703b8-b554-3a66-be4f-59d39cf96278","version":[0,0,1],"min_engine_version":[1,16,0]},"modules":[{"description":"Remove BlockParty Track: Synthwave (Neon Night)","type":"resources","uuid":"13fcdc67-0ab7-41e2-b616-6e7cb9d7a21f","version":[0,0,1]}]}
+{
+    "format_version": 2,
+    "header": {
+        "description": "Remove BlockParty Track: BlockParty Track! Synthwave (Neon Night)",
+        "name": "Remove BlockParty Track: BlockParty Track! Synthwave (Neon Night)",
+        "uuid": "520703b8-b554-3a66-be4f-59d39cf96278",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Remove BlockParty Track: BlockParty Track! Synthwave (Neon Night)",
+            "type": "resources",
+            "uuid": "13fcdc67-0ab7-41e2-b616-6e7cb9d7a21f",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
