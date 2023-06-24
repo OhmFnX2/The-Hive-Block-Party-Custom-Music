@@ -1,9 +1,9 @@
 
 # Now The Hive Block Party Use Music
-#### Update: 25/6/2566 03:58:22 (GMT+7)
+#### Update: 25/6/2566 04:02:56 (GMT+7)
 ### Electro Buzz (cosmochild - Vanilla)
 ### Sugar Rush (SK Music - Find You)
-### Apple Juice (i can't find original music help!!! http://gg.gg/13cdrd)
+### Apple Juice (i can't find original music help!!! github issues)
 
 # How To Use
 #### 1. Add Remove... Music Name in to Minecraft Global Resources
@@ -11,11 +11,13 @@
 # Music List is Have
 ### Electro Buzz (cosmochild - Vanilla)
 ### Sugar Rush (SK Music - Find You)
-### Apple Juice (i can't find original music help!!! http://gg.gg/13cdrd)
-### Neon Night (i can't find original music help!!! http://gg.gg/13cdrd)
+### Apple Juice (i can't find original music help!!! github issues)
+### Neon Night (i can't find original music help!!! github issues)
 
 # Unknown Original Music
 #### github issues
+### Apple Juice (i can't find original music help!!! github issues)
+### Neon Night (i can't find original music help!!! github issues)
 
 # Submission your Custom Hive Block Party Music
 ### github issues
